@@ -1,0 +1,12 @@
+# 忽略 Obsidian 的核心配置文件和缓存
+# 这可以避免不同设备间的设置冲突，也保护了插件的敏感信息（如API Key）
+.obsidian/
+
+# 忽略 Obsidian 的回收站文件夹
+.trash/
+
+# 忽略 macOS 系统的文件夹视图配置文件
+.DS_Store
+
+# 忽略 Windows 系统的缩略图缓存
+Thumbs.db
